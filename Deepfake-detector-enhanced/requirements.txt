@@ -2,13 +2,8 @@ Flask>=3.0
 Werkzeug>=3.0
 torch>=2.0
 torchvision>=0.15
-<<<<<<< HEAD
 transformers>=4.40
 safetensors>=0.4
-=======
-transformers>=4.30
-safetensors>=0.3
->>>>>>> 1f928409ca98be87ce7a62a48d84c59f35e4679a
 opencv-python>=4.8
 Pillow>=10.0
 numpy>=1.24
